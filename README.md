@@ -40,6 +40,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 If you have any questions or issues related to this project, please contact us at (ryandaffapratama@gmail.com).
 
 Thank you for using Water Tank Monitoring!
-```
-
-Pastikan untuk mengganti `link_gambar_water_tank.jpg` dengan URL gambar proyek Anda, dan sesuaikan informasi seperti alamat email dan tautan lainnya sesuai dengan proyek Anda.
