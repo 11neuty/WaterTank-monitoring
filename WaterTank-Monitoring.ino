@@ -9,8 +9,8 @@
 
 FirebaseData firebaseData;
 FirebaseJson json;
-const char* ssid = "queue";
-const char* pass = "satusampai8";
+const char* ssid = "ssid";
+const char* pass = "pass";
 WiFiClient wifiClient;
 
 static const int trigPin = 2, echoPin = 0;
