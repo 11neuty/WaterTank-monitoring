@@ -1,7 +1,7 @@
 
 # Water Tank Monitoring with ESP32 and HC-SR05 Ultrasonic Sensor
 
-![Water Tank Monitoring](![DESAIN-RANGKAIAN](https://github.com/11neuty/WaterTank-monitoring/assets/49444532/37105847-54ec-426a-87c7-7ea06ad26224)
+Water Tank Monitoring![DESAIN-RANGKAIAN](https://github.com/11neuty/WaterTank-monitoring/assets/49444532/37105847-54ec-426a-87c7-7ea06ad26224)
 
 ## Project Description
 The "Water Tank Monitoring" project is a solution for monitoring the water level in a 400-liter capacity tank using an ESP32 microcontroller and an HC-SR05 ultrasonic sensor. The sensor's water level data is sent to the Google Firebase platform for real-time monitoring and analysis.
