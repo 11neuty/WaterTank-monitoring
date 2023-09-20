@@ -12,13 +12,13 @@ Monitoring the water level in a water tank is a critical task in various applica
 ### Key Features
 This project includes several key features, including:
 
-1. **Real-Time Monitoring**: The HC-SR05 ultrasonic sensor is used to measure the water level in the tank in real-time. The generated data is continuously updated and available for monitoring.
+1. **Real-Time Monitoring**: The HC-SR04 ultrasonic sensor is used to measure the water level in the tank in real-time. The generated data is continuously updated and available for monitoring.
 
 2. **Firebase Connection**: Water level data measured by the ESP32 is sent to Google Firebase, a secure cloud platform for storing and managing data. Users can easily access this data through a web application or mobile device.
 
 3. **Notifications**: The project can be configured to send notifications via Firebase Cloud Messaging (FCM) when the water level reaches a certain threshold. This helps in more efficient water supply management.
 
-4. **Graphs and Analysis**: Water level data can be used to create graphs and analyze long-term trends. This can assist in water consumption monitoring and better planning.
+4. **Graphs and Analysis**: Water-level data can be used to create graphs and analyze long-term trends. This can assist in water consumption monitoring and better planning.
 
 ## How to Use Water Tank Monitoring
 1. **Install the Sensor**: Install the HC-SR05 ultrasonic sensor inside the water tank so that the sensor can accurately measure the water level.
@@ -37,7 +37,7 @@ We welcome contributions from the developer community. If you would like to cont
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
 
 ## Contact
-If you have any questions or issues related to this project, please contact us at [your email address](mailto:email@example.com).
+If you have any questions or issues related to this project, please contact us at (ryandaffapratama@gmail.com).
 
 Thank you for using Water Tank Monitoring!
 ```
